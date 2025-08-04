@@ -9,15 +9,17 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technology  --> A Metropolitan University Company</h1>
-<h1 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Saturday August 5, 2020 at 4pm EST for our new batch. 
+<h2 align="center"> Edited By......... </h2>
+<h1 align="center"> SALVATION ! ! ! </h1>
+<h2 align="center">Landmark Technology  --> A Metropolitan University Company</h2>
+<h2 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Saturday August 5, 2020 at 4pm EST for our new batch. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. 
 	Our anointed and extensive teaching approach takes our students with or without any IT Background to become Subject Matter Expect in IT, and DevOps automation.
 	Over 80% of our students are hired within 6 months of joining Landmark Technology.
 	Congratulations!! Welcome to Landmark Technology!! Welcome to your ENVIABLE IT CAREER.
 	We offer interview preparations and job assitance.
 	The King is in our midst. His name is JESUS. What a wonderful it is. HE IS OUR SUCCESS ACCESS KEY.
-	Thanks for being an ambassador of Landmark Technology. President</h1>
+	Thanks for being an ambassador of Landmark Technology. President</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
